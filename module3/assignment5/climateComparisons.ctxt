@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=currentValue\ minValue
+comment0.target=org.apache.commons.csv.CSVRecord\ findMinValue(org.apache.commons.csv.CSVRecord,\ org.apache.commons.csv.CSVRecord)
+comment1.params=parser
+comment1.target=org.apache.commons.csv.CSVRecord\ leastHumidHourOfDay(org.apache.commons.csv.CSVParser)
+comment2.params=
+comment2.target=org.apache.commons.csv.CSVRecord\ leastHumidHourToDate()
+comment3.params=
+comment3.target=void\ testDay()
+comment4.params=
+comment4.target=void\ testMultipleDays()
+numComments=5

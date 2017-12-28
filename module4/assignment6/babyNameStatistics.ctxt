@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ retrieveBabyNames()
+comment1.params=fr
+comment1.target=void\ retrieveNameStatistics(edu.duke.FileResource)
+comment10.params=
+comment10.target=void\ testNameRank()
+comment2.params=fr\ name\ gender
+comment2.target=int\ retrieveNameRank(edu.duke.FileResource,\ java.lang.String,\ java.lang.String)
+comment3.params=fr\ gender\ rank
+comment3.target=java.lang.String\ retrieveNameSameRank(edu.duke.FileResource,\ java.lang.String,\ java.lang.Integer)
+comment4.params=
+comment4.target=void\ retrieveMaxRank()
+comment5.params=gender\ name
+comment5.target=double\ retrieveAverageRank(java.lang.String,\ java.lang.String)
+comment6.params=
+comment6.target=void\ testAverageRank()
+comment7.params=fr\ gender\ name
+comment7.target=int\ retrieveTotalPop(edu.duke.FileResource,\ java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ testPopRetrieval()
+comment9.params=
+comment9.target=void\ testNameStats()
+numComments=11

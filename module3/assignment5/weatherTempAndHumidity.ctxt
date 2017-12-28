@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=parser\ weather
+comment0.target=double\ findAverage(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment1.params=parser\ weather1\ weather2\ value
+comment1.target=double\ findAverageWith2Conditions(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String,\ java.lang.Integer)
+comment2.params=
+comment2.target=void\ testAverageTemp()
+comment3.params=
+comment3.target=void\ testAverageTempWith2Conditions()
+numComments=4
